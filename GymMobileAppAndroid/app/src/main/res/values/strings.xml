@@ -1,0 +1,165 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<string name="app_name">GymMobileAppAndroid</string>
+	
+	<!-- Resources for SplashActivity -->
+	<string name="splash_activity_gym20_text_view_text">GYM 2.0</string>
+	<string name="splash_activity_gym20_text_view_hint">GYM 2.0</string>
+	
+	<!-- Resources for ConfigureBLESensorConnectedActivity -->
+	<string name="configure_blesensor_connected_activity_my_devices_text_view_text">My Devices</string>
+	<string name="configure_blesensor_connected_activity_bluetooth_two_text_view_hint">Bluetooth</string>
+	<string name="configure_blesensor_connected_activity_my_car_text_view_text">My Car</string>
+	<string name="configure_blesensor_connected_activity_gym_ble_sensor_text_view_text">GYM BLE Sensor</string>
+	<string name="configure_blesensor_connected_activity_gym_ble_sensor_text_view_hint">GYM BLE Sensor</string>
+	<string name="configure_blesensor_connected_activity_bluetooth_text_view_hint">Bluetooth</string>
+	<string name="configure_blesensor_connected_activity_headphone_text_view_hint">Headphone</string>
+	<string name="configure_blesensor_connected_activity_bluetooth_two_text_view_text">Bluetooth</string>
+	<string name="configure_blesensor_connected_activity_not_connected_two_text_view_hint">Not Connected</string>
+	<string name="configure_blesensor_connected_activity_available_devices_text_view_text">Available Devices</string>
+	<string name="configure_blesensor_connected_activity_available_devices_text_view_hint">Available Devices</string>
+	<string name="configure_blesensor_connected_activity_to_pair_gym_ble_sens_text_view_hint">To pair GYM BLE Sensor with your phone,\ngo to the GYM BLE Sensor.</string>
+	<string name="configure_blesensor_connected_activity_my_devices_text_view_hint">My Devices</string>
+	<string name="configure_blesensor_connected_activity_not_connected_text_view_text">Not Connected</string>
+	<string name="configure_blesensor_connected_activity_not_connected_two_text_view_text">Not Connected</string>
+	<string name="configure_blesensor_connected_activity_to_pair_gym_ble_sens_text_view_text">To pair GYM BLE Sensor with your phone,\ngo to the GYM BLE Sensor.</string>
+	<string name="configure_blesensor_connected_activity_not_connected_text_view_hint">Not Connected</string>
+	<string name="configure_blesensor_connected_activity_headphone_text_view_text">Headphone</string>
+	<string name="configure_blesensor_connected_activity_connected_text_view_hint">Connected</string>
+	<string name="configure_blesensor_connected_activity_bluetooth_text_view_text">Bluetooth</string>
+	<string name="configure_blesensor_connected_activity_my_car_text_view_hint">My Car</string>
+	<string name="configure_blesensor_connected_activity_connected_text_view_text">Connected</string>
+	
+	<!-- Resources for ConfigureBLESensorBluetoothEnableActivity -->
+	<string name="configure_blesensor_bluetooth_enable_activity_my_devices_text_view_hint">My Devices</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_bluetooth_text_view_text">Bluetooth</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_headphone_text_view_text">Headphone</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_not_connected_two_text_view_hint">Not Connected</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_gym_ble_sensor_text_view_text">GYM BLE Sensor</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_bluetooth_text_view_hint">Bluetooth</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_not_connected_two_text_view_text">Not Connected</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_set_temperature_text_view_hint">Pair</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_bluetooth_two_text_view_text">Bluetooth</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_bluetooth_two_text_view_hint">Bluetooth</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_set_temperature_text_view_text">Pair</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_available_devices_text_view_hint">Available Devices</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_to_pair_gym_ble_sens_text_view_text">To pair GYM BLE Sensor with your phone,\ngo to the GYM BLE Sensor.</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_headphone_text_view_hint">Headphone</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_my_devices_text_view_text">My Devices</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_not_connected_text_view_text">Not Connected</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_to_pair_gym_ble_sens_text_view_hint">To pair GYM BLE Sensor with your phone,\ngo to the GYM BLE Sensor.</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_skip_text_view_text">Skip</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_skip_text_view_hint">Skip</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_my_car_text_view_text">My Car</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_not_connected_text_view_hint">Not Connected</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_available_devices_text_view_text">Available Devices</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_my_car_text_view_hint">My Car</string>
+	<string name="configure_blesensor_bluetooth_enable_activity_gym_ble_sensor_text_view_hint">GYM BLE Sensor</string>
+	
+	<!-- Resources for ForgotPasswordActivity -->
+	<string name="forgot_password_activity_email_address_text_view_text">Email address</string>
+	<string name="forgot_password_activity_confirm_your_email_atext_view_text">Confirm your email and we\'ll send the instructions. </string>
+	<string name="forgot_password_activity_set_temperature_text_view_text">Send</string>
+	<string name="forgot_password_activity_set_temperature_text_view_hint">Send</string>
+	<string name="forgot_password_activity_otp_will_be_sent_to_text_view_hint">OTP will be sent to registered \nphone number</string>
+	<string name="forgot_password_activity_confirm_your_email_atext_view_hint">Confirm your email and we\'ll send the instructions. </string>
+	<string name="forgot_password_activity_forgot_password_text_view_text">Forgot Password</string>
+	<string name="forgot_password_activity_forgot_password_text_view_hint">Forgot Password</string>
+	<string name="forgot_password_activity_otp_will_be_sent_to_text_view_text">OTP will be sent to registered \nphone number</string>
+	<string name="forgot_password_activity_email_address_text_view_hint">Email address</string>
+	
+	<!-- Resources for SignUpActivity -->
+	<string name="sign_up_activity_sign_up_text_view_text">Sign up</string>
+	<string name="sign_up_activity_continue_with_google_text_view_text">Continue with Google</string>
+	<string name="sign_up_activity_continue_with_email_text_view_text">Continue with Email</string>
+	<string name="sign_up_activity_continue_with_facebo_text_view_text">Continue with Facebook</string>
+	<string name="sign_up_activity_sign_up_text_view_hint">Sign up</string>
+	<string name="sign_up_activity_continue_with_email_text_view_hint">Continue with Email</string>
+	<string name="sign_up_activity_continue_with_facebo_text_view_hint">Continue with Facebook</string>
+	<string name="sign_up_activity_continue_with_google_text_view_hint">Continue with Google</string>
+	
+	<!-- Resources for SignUpManualActivity -->
+	<string name="sign_up_manual_activity_upload_picture_text_view_text">Upload Picture</string>
+	<string name="sign_up_manual_activity_set_temperature_text_view_hint">Confirm</string>
+	<string name="sign_up_manual_activity_password_text_view_hint">Password</string>
+	<string name="sign_up_manual_activity_text_view_two_text_view_text">+91</string>
+	<string name="sign_up_manual_activity_upload_picture_text_view_hint">Upload Picture</string>
+	<string name="sign_up_manual_activity_last_name_text_view_text">Last name</string>
+	<string name="sign_up_manual_activity_email_address_text_view_hint">Email address</string>
+	<string name="sign_up_manual_activity_confirm_password_text_view_text">Confirm password</string>
+	<string name="sign_up_manual_activity_email_address_text_view_text">Email address</string>
+	<string name="sign_up_manual_activity_first_name_text_view_text">First name</string>
+	<string name="sign_up_manual_activity_text_view_text_view_text">999 869 6330</string>
+	<string name="sign_up_manual_activity_text_view_text_view_hint">999 869 6330</string>
+	<string name="sign_up_manual_activity_set_temperature_text_view_text">Confirm</string>
+	<string name="sign_up_manual_activity_text_view_two_text_view_hint">+91</string>
+	<string name="sign_up_manual_activity_password_text_view_text">Password</string>
+	<string name="sign_up_manual_activity_confirm_password_text_view_hint">Confirm password</string>
+	<string name="sign_up_manual_activity_first_name_text_view_hint">First name</string>
+	<string name="sign_up_manual_activity_last_name_text_view_hint">Last name</string>
+	
+	<!-- Resources for CreateNewPasswordActivity -->
+	<string name="create_new_password_activity_your_password_must_itext_view_hint">Your password must include at least one \nsymbol and 8 or more characters.</string>
+	<string name="create_new_password_activity_set_new_password_text_view_hint">Set New Password</string>
+	<string name="create_new_password_activity_create_new_password_text_view_text">Create New Password</string>
+	<string name="create_new_password_activity_set_new_password_text_view_text">Set New Password</string>
+	<string name="create_new_password_activity_your_password_must_itext_view_text">Your password must include at least one \nsymbol and 8 or more characters.</string>
+	<string name="create_new_password_activity_confirm_password_text_view_hint">Confirm Password</string>
+	<string name="create_new_password_activity_set_temperature_text_view_hint">Reset</string>
+	<string name="create_new_password_activity_set_temperature_text_view_text">Reset</string>
+	<string name="create_new_password_activity_create_new_password_text_view_hint">Create New Password</string>
+	<string name="create_new_password_activity_confirm_password_text_view_text">Confirm Password</string>
+	
+	<!-- Resources for OTPVerificationActivity -->
+	<string name="otpverification_activity_set_temperature_two_text_view_hint">Change Number</string>
+	<string name="otpverification_activity_set_temperature_three_text_view_text">Resend in 30</string>
+	<string name="otpverification_activity_otp_has_been_sent_to_text_view_text">OTP has been sent to you on your\nmobile number. please enter it below</string>
+	<string name="otpverification_activity_set_temperature_three_text_view_hint">Resend in 30</string>
+	<string name="otpverification_activity_set_temperature_text_view_text">Verify</string>
+	<string name="otpverification_activity_verfify_mobile_numbe_text_view_text">Verfify Mobile Number</string>
+	<string name="otpverification_activity_otp_has_been_sent_to_text_view_hint">OTP has been sent to you on your\nmobile number. please enter it below</string>
+	<string name="otpverification_activity_verfify_mobile_numbe_text_view_hint">Verfify Mobile Number</string>
+	<string name="otpverification_activity_set_temperature_two_text_view_text">Change Number</string>
+	<string name="otpverification_activity_set_temperature_text_view_hint">Verify</string>
+	
+	<!-- Resources for LoginActivity -->
+	<string name="login_activity_login_text_view_text">Login</string>
+	<string name="login_activity_forgot_password_text_view_text">Forgot Password?</string>
+	<string name="login_activity_email_address_text_view_text">Email address</string>
+	<string name="login_activity_email_address_text_view_hint">Email address</string>
+	<string name="login_activity_password_text_view_text">Password</string>
+	<string name="login_activity_password_text_view_hint">Password</string>
+	<string name="login_activity_forgot_password_text_view_hint">Forgot Password?</string>
+	<string name="login_activity_set_temperature_text_view_hint">Login</string>
+	<string name="login_activity_login_text_view_hint">Login</string>
+	<string name="login_activity_set_temperature_text_view_text">Login</string>
+	
+	<!-- Resources for MyProfileActivity -->
+	<string name="my_profile_activity_gender_text_view_hint">Gender</string>
+	<string name="my_profile_activity_text_view_two_text_view_text">23</string>
+	<string name="my_profile_activity_feet_text_view_text">Feet</string>
+	<string name="my_profile_activity_confirm_password_text_view_text">Confirm password</string>
+	<string name="my_profile_activity_text_view_two_text_view_hint">23</string>
+	<string name="my_profile_activity_age_text_view_hint">Age</string>
+	<string name="my_profile_activity_set_temperature_text_view_text">Save</string>
+	<string name="my_profile_activity_upload_picture_text_view_text">Upload Picture</string>
+	<string name="my_profile_activity_weight_text_view_text">Weight</string>
+	<string name="my_profile_activity_gender_text_view_text">Gender</string>
+	<string name="my_profile_activity_text_view_text_view_hint">6\'. 2\'\'</string>
+	<string name="my_profile_activity_height_text_view_text">Height</string>
+	<string name="my_profile_activity_text_view_text_view_text">6\'. 2\'\'</string>
+	<string name="my_profile_activity_age_text_view_text">Age</string>
+	<string name="my_profile_activity_weight_text_view_hint">Weight</string>
+	<string name="my_profile_activity_confirm_password_text_view_hint">Confirm password</string>
+	<string name="my_profile_activity_kg_text_view_hint">65 kg</string>
+	<string name="my_profile_activity_kilograms_text_view_hint">Kilograms</string>
+	<string name="my_profile_activity_kg_text_view_text">65 kg</string>
+	<string name="my_profile_activity_height_text_view_hint">Height</string>
+	<string name="my_profile_activity_my_profile_text_view_text">My Profile</string>
+	<string name="my_profile_activity_upload_picture_text_view_hint">Upload Picture</string>
+	<string name="my_profile_activity_kilograms_text_view_text">Kilograms</string>
+	<string name="my_profile_activity_set_temperature_text_view_hint">Save</string>
+	<string name="my_profile_activity_feet_text_view_hint">Feet</string>
+	<string name="my_profile_activity_my_profile_text_view_hint">My Profile</string>
+</resources>

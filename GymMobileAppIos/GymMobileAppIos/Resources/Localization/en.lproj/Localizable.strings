@@ -1,0 +1,83 @@
+
+
+/* 01 Splash */
+"Splash.gym20Label" = "GYM 2.0";
+
+
+/* 02 Sign Up */
+"SignUp.signUpLabel" = "Sign up";
+"SignUp.continueWithFaceboLabel" = "Continue with Facebook";
+"SignUp.continueWithGoogleLabel" = "Continue with Google";
+"SignUp.continueWithEmailLabel" = "Continue with Email";
+
+
+/* 03 Sign Up Manual */
+"SignUpManual.setTemperatureLabel" = "Confirm";
+"SignUpManual.firstNameLabel" = "First name";
+"SignUpManual.lastNameLabel" = "Last name";
+"SignUpManual.emailAddressLabel" = "Email address";
+"SignUpManual.uploadPictureLabel" = "Upload Picture";
+"SignUpManual.passwordLabel" = "Password";
+"SignUpManual.confirmPasswordLabel" = "Confirm password";
+"SignUpManual.labelLabel" = "999 869 6330";
+"SignUpManual.labelTwoLabel" = "+91";
+
+
+/* 04 OTP Verification */
+"OTPVerification.setTemperatureLabel" = "Verify";
+"OTPVerification.verfifyMobileNumbeLabel" = "Verfify Mobile Number";
+"OTPVerification.otpHasBeenSentToLabel" = "OTP has been sent to you on your\nmobile number. please enter it below";
+
+
+/* 05 Login */
+"Login.setTemperatureLabel" = "Login";
+"Login.emailAddressLabel" = "Email address";
+"Login.passwordLabel" = "Password";
+"Login.loginLabel" = "Login";
+"Login.forgotPasswordLabel" = "Forgot Password?";
+
+
+/* 06 Configure BLE Sensor Bluetooth Enable */
+"ConfigureBLESensorBluetoothEnable.bluetoothLabel" = "Bluetooth";
+"ConfigureBLESensorBluetoothEnable.setTemperatureLabel" = "Pair";
+"ConfigureBLESensorBluetoothEnable.bluetoothTwoLabel" = "Bluetooth";
+"ConfigureBLESensorBluetoothEnable.skipLabel" = "Skip";
+"ConfigureBLESensorBluetoothEnable.toPairGymBleSensLabel" = "To pair GYM BLE Sensor with your phone,\ngo to the ";
+
+
+/* 07 Configure BLE Sensor  Connected */
+"ConfigureBLESensorConnected.bluetoothLabel" = "Bluetooth";
+"ConfigureBLESensorConnected.bluetoothTwoLabel" = "Bluetooth";
+"ConfigureBLESensorConnected.toPairGymBleSensLabel" = "To pair GYM BLE Sensor with your phone,\ngo to the ";
+
+
+/* 08 Forgot Password */
+"ForgotPassword.emailAddressLabel" = "Email address";
+"ForgotPassword.forgotPasswordLabel" = "Forgot Password";
+"ForgotPassword.otpWillBeSentToLabel" = "OTP will be sent to registered \nphone number";
+"ForgotPassword.confirmYourEmailALabel" = "Confirm your email and we'll send the instructions. ";
+"ForgotPassword.setTemperatureLabel" = "Send";
+
+
+/* 09 Create New Password */
+"CreateNewPassword.createNewPasswordLabel" = "Create New Password";
+"CreateNewPassword.yourPasswordMustILabel" = "Your password must include at least one \nsymbol and 8 or more characters.";
+"CreateNewPassword.setTemperatureLabel" = "Reset";
+"CreateNewPassword.setNewPasswordLabel" = "Set New Password";
+"CreateNewPassword.confirmPasswordLabel" = "Confirm Password";
+
+
+/* 10 My Profile */
+"MyProfile.genderLabel" = "Gender";
+"MyProfile.ageLabel" = "Age";
+"MyProfile.weightLabel" = "Weight";
+"MyProfile.uploadPictureLabel" = "Upload Picture";
+"MyProfile.heightLabel" = "Height";
+"MyProfile.confirmPasswordLabel" = "Confirm password";
+"MyProfile.myProfileLabel" = "My Profile";
+"MyProfile.kgLabel" = "65 kg";
+"MyProfile.kilogramsLabel" = "Kilograms";
+"MyProfile.feetLabel" = "Feet";
+"MyProfile.labelLabel" = "6'. 2''";
+"MyProfile.labelTwoLabel" = "23";
+"MyProfile.setTemperatureLabel" = "Save";
